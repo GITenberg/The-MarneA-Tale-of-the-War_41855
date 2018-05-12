@@ -1,0 +1,35 @@
+_repo: The-MarneA-Tale-of-the-War_41855
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: Francophile Wharton, an American buried in Versailles, was one of the
+  few foreign front-line correspondents in France during World War I. A passionate
+  advocate for the French national cause, this 1918 novella of a young American soldier
+  in the Foreign Legion takes the United States to task for its slow aid to its ally.
+gutenberg_issued: '2013-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+title: 'The Marne: A Tale of the War'
+url: http://www.gutenberg.org/ebooks/41855
